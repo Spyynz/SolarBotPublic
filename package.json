@@ -1,0 +1,17 @@
+{
+  "name": "solar",
+  "version": "1.0.0",
+  "description": "solar bot",
+  "main": "solar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spyynz & Expando",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
